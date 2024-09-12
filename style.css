@@ -1,0 +1,10 @@
+.carousel-inner {
+    width: 100%;
+    height: 500px; /* Ajusta el tamaño deseado */
+  }
+  
+  .carousel-item img {
+    object-fit: cover; /* Hace que las imágenes se adapten al tamaño del contenedor */
+    height: 100%; 
+    width: 100%;
+  }
